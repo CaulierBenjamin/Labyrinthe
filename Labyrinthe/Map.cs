@@ -21,11 +21,11 @@ namespace Labyrinthe
             {
                 case "plateauMed":
                     plateau = new int[30,20];
-                    reader = new StreamReader(@"\plateauMed");
+                    reader = new StreamReader(@""+repertoire+@"\plateauMed.txt");
                     break;
                 case "plateauGen":
                     plateau = new int[40,25];
-                    reader = new StreamReader(@"\plateauGen");
+                    reader = new StreamReader(@""+repertoire+@"\plateauGen.txt");
                     break;
             }
 
