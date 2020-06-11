@@ -9,6 +9,7 @@ namespace Labyrinthe
     {
         private string nom;
         private int[,] plateau;
+        public static int[,] publicPlateau;
 
         public Map(string prmNom)
         {
@@ -39,6 +40,8 @@ namespace Labyrinthe
                 }
                 idxLigne++;
             }
+
+            publicPlateau = plateau;
         }
 
         public int[,] GetPlateau()

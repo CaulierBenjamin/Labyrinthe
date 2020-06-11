@@ -38,7 +38,6 @@
             this.buttonFacile = new System.Windows.Forms.Button();
             this.buttonNormal = new System.Windows.Forms.Button();
             this.buttonDifficile = new System.Windows.Forms.Button();
-            this.buttonFermer = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textUser
@@ -127,22 +126,11 @@
             this.buttonDifficile.Visible = false;
             this.buttonDifficile.Click += new System.EventHandler(this.buttonDifficile_Click);
             // 
-            // buttonFermer
-            // 
-            this.buttonFermer.Location = new System.Drawing.Point(807, 500);
-            this.buttonFermer.Name = "buttonFermer";
-            this.buttonFermer.Size = new System.Drawing.Size(77, 48);
-            this.buttonFermer.TabIndex = 9;
-            this.buttonFermer.Text = "Fermer";
-            this.buttonFermer.UseVisualStyleBackColor = true;
-            this.buttonFermer.Click += new System.EventHandler(this.buttonFermer_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(967, 616);
-            this.Controls.Add(this.buttonFermer);
             this.Controls.Add(this.buttonDifficile);
             this.Controls.Add(this.buttonNormal);
             this.Controls.Add(this.buttonFacile);
@@ -161,7 +149,6 @@
         private System.Windows.Forms.Button buttonDifficile;
         private System.Windows.Forms.Button buttonExit;
         private System.Windows.Forms.Button buttonFacile;
-        private System.Windows.Forms.Button buttonFermer;
         private System.Windows.Forms.Button buttonNormal;
         private System.Windows.Forms.Button buttonUser;
         private System.Windows.Forms.Label labelDifficulter;
@@ -172,8 +159,8 @@
         private System.Windows.Forms.PictureBox picturebox1;
 
         #endregion
-        private System.Windows.Forms.Button buttoncreatepicturebox;
-        private System.Windows.Forms.Button buttonshowimage;
+        //private System.Windows.Forms.Button buttoncreatepicturebox;
+        
         
     }
 }

@@ -8,3 +8,14 @@ E:\programmes\rider\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.csproj.CoreCompil
 E:\programmes\rider\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.exe
 E:\programmes\rider\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.pdb
 E:\programmes\rider\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.Form1.resources
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.exe
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.pdb
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\bin\Debug\Labyrinthe.exe.config
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\bin\Debug\Labyrinthe.exe
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\bin\Debug\Labyrinthe.pdb
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.csprojAssemblyReference.cache
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.Form1.resources
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.Properties.Resources.resources
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.csproj.GenerateResource.cache
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.csproj.CoreCompileInputs.cache
+C:\Users\benjamin\Desktop\temporarie\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.Form2.resources
