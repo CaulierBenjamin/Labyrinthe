@@ -75,7 +75,7 @@ namespace Labyrinthe
 
         private void TextBox1_KeyDown(object sender, KeyPressEventArgs e)
         {
-            MessageBox.Show( $"KeyDown code: {e.KeyCode}, value: {e.KeyValue}, modifiers: {e.Modifiers}" + "\r\n");
+            //MessageBox.Show( $"KeyDown code: {e.KeyCode}, value: {e.KeyValue}, modifiers: {e.Modifiers}" + "\r\n");
 
         }
     }
