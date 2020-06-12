@@ -90,7 +90,7 @@
             this.labelDifficulter.Name = "labelDifficulter";
             this.labelDifficulter.Size = new System.Drawing.Size(141, 28);
             this.labelDifficulter.TabIndex = 5;
-            this.labelDifficulter.Text = "Difficulter :";
+            this.labelDifficulter.Text = "Difficulté :";
             this.labelDifficulter.Visible = false;
             // 
             // buttonFacile

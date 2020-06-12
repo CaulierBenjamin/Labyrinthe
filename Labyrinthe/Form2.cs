@@ -9,12 +9,15 @@ namespace Labyrinthe
         
         public Form2()
         {
+            TextBox tb = new TextBox();
+            this.Controls.Add(tb);
+            tb.KeyPress += new KeyPressEventHandler(keypressed);
             InitializeComponent();
         }
         
         public void CreationPlateau(int[,] pPlateau)
         {
-           
+            Form2 main = new Form2();
             //Creation du contoure du plateau
             int sidex = pPlateau.GetLength(0) + 2;
             int sidey = pPlateau.GetLength(1)+1;
@@ -76,6 +79,14 @@ namespace Labyrinthe
         private void TextBox1_KeyDown(object sender, KeyPressEventArgs e)
         {
             //MessageBox.Show( $"KeyDown code: {e.KeyCode}, value: {e.KeyValue}, modifiers: {e.Modifiers}" + "\r\n");
+        }
+        private void keypressed(Object o, KeyPressEventArgs e)
+        {
+            //if (e.KeyChar == (char)Keys.Return)
+            bool quit = Joueur.Move(e);
+            if (quit == true)
+                
+            
 
         }
     }
